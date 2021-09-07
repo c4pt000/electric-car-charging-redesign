@@ -5,6 +5,9 @@ https://drive.google.com/file/d/1aq0nQVBYsA_-Isq4fqc_OFZDeZ87oBko/view?usp=drive
 ![s1](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20210901-090917-698.png)
 
 
+![s1](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/IMG_20210907_050921526~2.jpg)
+
+
 09-05-2021
 
 ```
