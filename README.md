@@ -21,6 +21,8 @@ https://futurism.com/25000-tesla-no-steering-wheel/amp#aoh=16308491409848&csi=0&
 
 09-12-2021
 
+# https://insideevs.com/news/532362/tesla-patents-laser-windshield-wipers/
+
 ```
 This is not necessary since an air compressor would be a more realistic 
 Windshield wiperless design for an air compressor can 
@@ -33,4 +35,4 @@ Exiting from the hood of the car against the windshield
 As it rains
 ```
 
-https://insideevs.com/news/532362/tesla-patents-laser-windshield-wipers/
+
