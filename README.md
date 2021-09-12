@@ -17,3 +17,20 @@ The driver should be able to switch into manual driving mode just in case
 ```
 
 https://futurism.com/25000-tesla-no-steering-wheel/amp#aoh=16308491409848&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s
+
+
+09-12-2021
+
+```
+This is not necessary since an air compressor would be a more realistic 
+Windshield wiperless design for an air compressor can 
+Definitely push droplets of moisture clean off of a flat or
+Semi curved surface even a windshield if the air is pressurized
+At a given angle through an exit as it moves the droplets of
+Water in an outward direction from the base of the windshield
+In layman's terms very similar to the end of a car wash 
+Exiting from the hood of the car against the windshield
+As it rains
+```
+
+https://insideevs.com/news/532362/tesla-patents-laser-windshield-wipers/
