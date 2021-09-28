@@ -37,4 +37,7 @@ Exiting from the hood of the car against the windshield
 As it rains
 ```
 
+@BMW 09-28-2021
+
+https://cleantechnica.com/2021/09/28/german-plan-for-charging-infrastructure-turns-capitalism-on-its-head/
 
