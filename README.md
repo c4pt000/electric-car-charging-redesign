@@ -41,3 +41,4 @@ As it rains
 
 https://cleantechnica.com/2021/09/28/german-plan-for-charging-infrastructure-turns-capitalism-on-its-head/
 
+https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
