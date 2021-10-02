@@ -51,3 +51,6 @@ https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 ![s1](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/IMG_20211001_224438680_HDR~2.jpg)
 
 
+
+10-01_2021
+cycles can charge with kickstand cathode and anode on circular charging plate left and right positive and negative
