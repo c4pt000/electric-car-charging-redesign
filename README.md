@@ -43,7 +43,7 @@ https://cleantechnica.com/2021/09/28/german-plan-for-charging-infrastructure-tur
 
 https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 
-# gas station can install speed bumps next to pump run wire
+# gas station can install speed bumps next to pump run wire (underneath the speed bump)
 
 # test in desert near MOAB first for UL safety gas can ignite
 
