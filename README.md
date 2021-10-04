@@ -70,7 +70,7 @@ https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 # each pass the carbon is captured increasing the output of o2
 
 
-# o2 is collected as the final result and 50% percentage of the collected final result is emitted back out of the vehicle as a form of clean air
+# o2 is collected as the final result and 50% percent of the collected final result is emitted back out of the vehicle as a form of clean air
 <br>
 <br>
 <br>
