@@ -57,3 +57,10 @@ https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 # also test MOAB ,...cyclist shouldn't turn into a burning man desert stunt use regular crash test dummy man ....little bmw circles on his head
 
 ![s1](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211001-230040-366~2.png)
+
+
+
+
+
+
+# even burning o2 from the surrounding air by pulling in the air cleaning it releasing 50% volume as clean o2 and combusting the other 50% volume o2 to power an internal generator
