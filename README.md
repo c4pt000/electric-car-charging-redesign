@@ -59,7 +59,7 @@ https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 ![s1](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211001-230040-366~2.png)
 
 
-
+10-04-2021
 
 
 
