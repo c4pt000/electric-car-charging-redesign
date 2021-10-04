@@ -64,16 +64,16 @@ https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 
 
 # even burning o2 from the surrounding air by pulling in the air cleaning it releasing 50% volume as clean o2 and combusting the other 50% volume o2 to power an internal generator
-by gathering the surrounding air into an internal compressed air tank and passing the air
-through a looping filter each pass through the filter separates the air into o2
-like carbon separation of co2 by capturing carbon through a multi pass pressured loop a few dozen times
-each pass the carbon is captured increasing the output of o2
+# by gathering the surrounding air into an internal compressed air tank and passing the air
+# through a looping filter each pass through the filter separates the air into o2
+# like carbon separation of co2 by capturing carbon through a multi pass pressured loop a few dozen times
+# each pass the carbon is captured increasing the output of o2
 
 
-#o2 is collected as the final result and 50% percentage of the collected final result is emitted back out of the vehicle as a form of clean air
+# o2 is collected as the final result and 50% percentage of the collected final result is emitted back out of the vehicle as a form of clean air
 
 
-#leaving the hybrid gas station electric speed bump as an affordable option for $5 for 15 minutes rapid charge as an option
-not every electric car user will feel comfortable driving off of the surrounding air and cleaning the air
-it can be left as an option as the customers choice to just pull in the surrounding air ans clean it with carbon separation to release clean o2 and that option will rely on electric station charging as the customers car dealership choice
-at time of purchase same for electric cycles?
+# leaving the hybrid gas station electric speed bump as an affordable option for $5 for 15 minutes rapid charge as an option
+# not every electric car user will feel comfortable driving off of the surrounding air and cleaning the air
+# it can be left as an option as the customers choice to just pull in the surrounding air ans clean it with carbon separation to release clean o2 and that option will rely on electric station charging as the customers car dealership choice
+# at time of purchase same for electric cycles?
