@@ -68,3 +68,6 @@ by gathering the surrounding air into an internal compressed air tank and passin
 through a looping filter each pass through the filter separates the air into o2
 like carbon separation of co2 by capturing carbon through a multi pass pressured loop a few dozen times
 each pass the carbon is captured increasing the output of o2
+
+
+o2 is collected as the final result and 50% percentage of the collected final result is emitted back out of the vehicle as a form of clean air
