@@ -66,7 +66,7 @@ https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 # even burning o2 from the surrounding air by pulling in the air cleaning it releasing 50% volume as clean o2 and combusting the other 50% volume o2 to power an internal generator
 # by gathering the surrounding air into an internal compressed air tank and passing the air
 # through a looping filter each pass through the filter separates the air into o2
-# like carbon separation of co2 by capturing carbon through a multi pass pressured loop a few dozen times
+# like carbon separation of co2 by capturing carbon through a multi pass pressured loop a few dozen times back through the filter 
 # each pass the carbon is captured increasing the output of o2
 
 
