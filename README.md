@@ -90,8 +90,9 @@ this could be the same for electric cycles?@
 
 
 
-# 10-05-2021
+# 10-05-2021 this is a mistake waste of intelluctual energy methane burns twice as heavy as current fuel grades really bad idea interesting chemical processes but really bad idea
 # https://www.sciencedaily.com/releases/2020/02/200227114523.htm
+# https://www.ccacoalition.org/en/slcps/methane
 
 noticed a scientist or something wasting physical energy with processes 
 unnecessarily making methane from CO2
