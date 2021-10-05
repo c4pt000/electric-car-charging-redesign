@@ -97,6 +97,14 @@ this could be the same for electric cycles?@
 noticed a scientist or something wasting physical energy with processes 
 unnecessarily making methane from CO2
 guess i will mentally consider use of chemical process for this conversion or what it could be used for with requirements involving methane process since i have a basic chemistry level at chem 2 with no organic level
-regular computer engineering burning just o2 is a cleaner burn for all applications that i mentioned with this psuedo design in my own personal disgust of chinese failed space craft not burning energy for free on mars so in my arrogance I elaborated my "free-energy" suggestion because of reading how idiotic completely outside of car energy design but my own arguments complaining about idiotic spacecraft here
+regular computer engineering burning just o2 is a cleaner burn for all applications that i mentioned with this psuedo design in my own personal disgust of chinese failed space craft not burning energy for free on mars so in my arrogance I elaborated my "free-energy" suggestion because of reading how idiotic completely outside of car energy design but my own arguments complaining about idiotic spacecraft
+
+ in the news about the Chinese space race 
+so i guess even re explaining the simplicity of it
+finally being aggravated enough to REALLY elaborate here how it can power machinery on earth instead and redesign the energy sector on earth since reading of the Chinese space race to mars completely ignoring the abundance of co2 fuel on mars (since they burn coal mostly) and the spacecraft they built utilizes little to nothing of abundant co2 there as free electrical energy
+
+really really bothering me
+
+
 
 ![noticed](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211005-004800-113~2.png)
