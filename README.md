@@ -93,5 +93,7 @@ this could be the same for electric cycles?@
 # 10-05-2021
 noticed a scientist or something wasting physical energy with processes 
 unnecessarily making methane from CO2
+guess i will mentally consider use of chemical process for this conversion or what it could be used for with requirements involving methane process since i have a basic chemistry level at chem 2 with no organic level
+regular computer engineering
 
 ![noticed](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211005-004800-113~2.png)
