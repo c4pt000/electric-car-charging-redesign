@@ -91,6 +91,7 @@ this could be the same for electric cycles?@
 
 
 # 10-05-2021
+noticed a scientist or something wasting physical energy with processes 
+unnecessarily making methane from CO2
 
-
-
+![noticed](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211005-004800-113~2.png)
