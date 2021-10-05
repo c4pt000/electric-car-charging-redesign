@@ -103,7 +103,7 @@ regular computer engineering burning just o2 is a cleaner burn for all applicati
 so i guess even re explaining the simplicity of it
 finally being aggravated enough to REALLY elaborate here how it can power machinery on earth instead and redesign the energy sector on earth since reading of the Chinese space race to mars completely ignoring the abundance of co2 fuel on mars (since they burn coal mostly) and the spacecraft they built utilizes little to nothing of abundant co2 there as free electrical energy
 
-really really bothering me
+really really bothering me outside of other terms then to read about the co2 to methane catalyst creation reaction of a catalyst reaction to make CH4 which is already too heavy of a fuel
 
 
 
