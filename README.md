@@ -86,3 +86,11 @@ https://www.cnet.com/roadshow/news/fastest-ev-charging-station-full-battery/
 
 ot
 this could be the same for electric cycles?@
+
+
+
+
+# 10-05-2021
+
+
+
