@@ -91,6 +91,8 @@ this could be the same for electric cycles?@
 
 
 # 10-05-2021
+# https://www.sciencedaily.com/releases/2020/02/200227114523.htm
+
 noticed a scientist or something wasting physical energy with processes 
 unnecessarily making methane from CO2
 guess i will mentally consider use of chemical process for this conversion or what it could be used for with requirements involving methane process since i have a basic chemistry level at chem 2 with no organic level
