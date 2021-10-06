@@ -112,6 +112,7 @@ really really bothering me outside of other terms then to read about the co2 to 
 # https://en.wikipedia.org/wiki/Oxygen_concentrator
 
 # How is oxygen manufactured for hospitals?
-# One is by liquifying air through a process called cryogenic distillation. In this method, oxygen is produced in air separation plants where the air is cooled and the oxygen is distilled based on its boiling point. ... Oxygen can also be generated from the air itself by a machine called an oxygen concentrator.
+* One is by liquifying air through a process called cryogenic distillation. In this method, oxygen is produced in air separation plants where the air is cooled and the oxygen is distilled based on its boiling point. ...
+# Oxygen can also be generated from the air itself by a machine called an oxygen concentrator.
 
 
