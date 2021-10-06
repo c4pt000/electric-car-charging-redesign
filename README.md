@@ -108,3 +108,10 @@ really really bothering me outside of other terms then to read about the co2 to 
 
 
 ![noticed](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211005-004800-113~2.png)
+
+
+
+# How is oxygen manufactured for hospitals?
+# One is by liquifying air through a process called cryogenic distillation. In this method, oxygen is produced in air separation plants where the air is cooled and the oxygen is distilled based on its boiling point. ... Oxygen can also be generated from the air itself by a machine called an oxygen concentrator.
+
+https://en.wikipedia.org/wiki/Oxygen_concentrator
