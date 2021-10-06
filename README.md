@@ -111,7 +111,7 @@ really really bothering me outside of other terms then to read about the co2 to 
 
 
 # https://physicsworld.com/a/how-to-efficiently-capture-carbon-dioxide-out-of-thin-air/
-
+![s1](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211006-130319-066.png)
 
 # https://en.wikipedia.org/wiki/Oxygen_concentrator
 
