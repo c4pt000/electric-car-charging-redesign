@@ -109,6 +109,10 @@ really really bothering me outside of other terms then to read about the co2 to 
 
 ![noticed](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211005-004800-113~2.png)
 
+
+# https://physicsworld.com/a/how-to-efficiently-capture-carbon-dioxide-out-of-thin-air/
+
+
 # https://en.wikipedia.org/wiki/Oxygen_concentrator
 
 # How is oxygen manufactured for hospitals?
