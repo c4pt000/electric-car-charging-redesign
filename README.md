@@ -135,7 +135,7 @@ there are roughly 4 molecules co2 for every 10,000 molecules of air
 
 
 ```
-a regular vehicle would require a 300 litter storage tank to hold 300kg of air
+a regular vehicle would require a 300 liter storage tank to hold 300kg of air
 
 resulting in 3kg of co2 from the air when extracting combustible o2 leaves 2kg (liters)
 
@@ -195,13 +195,13 @@ a regular consumer gas electric generator usage compared to combustion from the 
 600 grams is 1/5 of 3 litters
 
 
-is almost half a litter since a litter is 1000g
+is almost half a liter since a liter is 1000g
 
 
-it would require half a litter an hour to power 1 kilowatt~
+it would require half a liter an hour to power 1 kilowatt~
 
 
-instead of 3 litters to power 5 kilowatt
+instead of 3 liters to power 5 kilowatt
 
 
 
@@ -215,25 +215,25 @@ in 15 minutes
 
 60 minutes
 
-2 litters of co2
+2 liters of co2
 
 
 in 15 minutes
 
 500 grams is 330 grams of o2
 
-1/3 of a litter of fuel
+1/3 of a liter of fuel
 
 
 in 30 minutes
 
 1000 grams is 660 grams of o2
 
-1/2 of a litter (500g) of o2
+1/2 of a liter (500g) of o2
 
 
 in 60 minutes
 
-2000 grams is 1.32 litters of o2
+2000 grams is 1.32 liters of o2
 
 ```
