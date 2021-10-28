@@ -122,6 +122,11 @@ really really bothering me outside of other terms then to read about the co2 to 
 * One is by liquifying air through a process called cryogenic distillation. In this method, oxygen is produced in air separation plants where the air is cooled and the oxygen is distilled based on its boiling point. ...
 # Oxygen can also be generated from the air itself by a machine called an oxygen concentrator.
 
+
+
+
+
+figure 1kg of air 1L of air as 1000 grams where 10 grams are co2 
 ```
 a regular vehicle would require a 300 litter storage tank to hold 300kg of air
 
