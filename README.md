@@ -122,4 +122,106 @@ really really bothering me outside of other terms then to read about the co2 to 
 * One is by liquifying air through a process called cryogenic distillation. In this method, oxygen is produced in air separation plants where the air is cooled and the oxygen is distilled based on its boiling point. ...
 # Oxygen can also be generated from the air itself by a machine called an oxygen concentrator.
 
+```
+a regular vehicle would require a 300 litter storage tank to hold 300kg of air
 
+resulting in 3kg of co2 from the air when extracting combustible o2 leaves 2kg (liters)
+
+
+2L is half a gallon
+
+
+an average gallon yields 22 miles (per gallon)
+
+
+so around 11 miles per half a gallon on a loose based average
+
+
+
+
+the vehicles onboard 300kg storage tank would have to refill with air and separate to o2 every 15 minutes to yield 
+
+
+8L of o2 an hour
+
+
+a secondary storage tank of 300kg would hold purified o2 
+
+
+to feed 8L of combustible o2 an hour
+
+
+
+or 150L tank
+
+and another 150L 
+
+
+tank 
+
+
+for 4L an hour being fed into the secondary tank to fuel the electric vehicles onboard generator to power the vehicle
+
+
+
+
+
+a regular consumer gas electric generator usage compared to combustion from the surrounding air
+
+
+
+
+
+5 kilowatt / 5 for 1 kilowatt
+
+
+0.75 gallons is 3 litters
+
+
+
+
+600 grams is 1/5 of 3 litters
+
+
+is almost half a litter since a litter is 1000g
+
+
+it would require half a litter an hour to power 1 kilowatt~
+
+
+instead of 3 litters to power 5 kilowatt
+
+
+
+in 15 minutes
+
+50kg of air 500 grams of co2
+
+30 minutes
+
+100kg of air is 1000 grams of co2
+
+60 minutes
+
+2 litters of co2
+
+
+in 15 minutes
+
+500 grams is 330 grams of o2
+
+1/3 of a litter of fuel
+
+
+in 30 minutes
+
+1000 grams is 660 grams of o2
+
+1/2 of a litter (500g) of o2
+
+
+in 60 minutes
+
+2000 grams is 1.32 litters of o2
+
+```
