@@ -126,7 +126,14 @@ really really bothering me outside of other terms then to read about the co2 to 
 
 
 
-figure 1kg of air 1L of air as 1000 grams where 10 grams are co2 
+# loosely figured -> 1kg of air 1L of air as 1000 grams where 10 grams are co2 on average
+
+there are roughly 4 molecules co2 for every 10,000 molecules of air
+
+~~~~~loose figure (0.0004) in Avogadro's number 6.022 * 10^23 molecules per mol
+1kg.of air is 21 septillion molecules consisting of 850 quadrillion co2 molecules
+
+
 ```
 a regular vehicle would require a 300 litter storage tank to hold 300kg of air
 
