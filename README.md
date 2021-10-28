@@ -187,12 +187,12 @@ a regular consumer gas electric generator usage compared to combustion from the 
 5 kilowatt / 5 for 1 kilowatt
 
 
-0.75 gallons is 3 litters
+0.75 gallons is 3 liters
 
 
 
 
-600 grams is 1/5 of 3 litters
+600 grams is 1/5 of 3 liters
 
 
 is almost half a liter since a liter is 1000g
