@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1aq0nQVBYsA_-Isq4fqc_OFZDeZ87oBko/view?usp=drive
 
 ![s1](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/IMG_20210907_050921526~2.jpg)
 
-
+![s!](https://raw.githubusercontent.com/c4pt000/electric-car-charging-redesign/main/Screenshot_20211128-112901-695~3.png)
 09-05-2021
 
 # https://futurism.com/25000-tesla-no-steering-wheel/amp#aoh=16308491409848&csi=0&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251
