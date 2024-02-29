@@ -4,7 +4,20 @@
 
 * burn the air for fuel to power drones, robots, cars, aerial vehicles, satelites
 
+* could this technology used to power other machinery with the air around us to turn air into plasma as a form of fuel?
+
 * https://interestingengineering.com/news/air-breathing-satellite-technology-could-unlock-unlimited-propellant
+
+```
+Traditional satellites in LEO and higher orbits have limited lifespans because they use a limited amount of
+propellant to generate plasma. The thruster proposed by the GWU and PPPL team would avoid this problem by using
+the surrounding air to generate plasma. In other words, any satellite using this system would essentially have free,
+unlimited propellant.
+
+Could air-breathing technology unlock unlimited propellant for satellites?
+```
+
+according to the article.
 
 ```
 Recently, however, many scientists have suggested the air could be used as a propellant. Now, a team of
