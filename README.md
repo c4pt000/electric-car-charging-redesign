@@ -364,10 +364,10 @@ in 30 minutes
 in 60 minutes
 
 2000 grams is 1.32 liters of o2
-
 ```
 
-```
+<br>
+
 
 # updated now 05-31-2024 to show a simple diagram explaining this
 
