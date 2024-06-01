@@ -1,5 +1,9 @@
 # electric-car-charging-redesign
 
+# 05-31-2024 updated with a simple diagram
+
+https://github.com/c4pt000/electric-car-charging-redesign/blob/main/05-31-2024-updated-diagram.md
+
 # 02-29-2024 advancements in using air around us as a natural form of fuel
 
 * burn the air for fuel to power drones, robots, cars, aerial vehicles, satelites
@@ -364,5 +368,10 @@ in 30 minutes
 in 60 minutes
 
 2000 grams is 1.32 liters of o2
-```
+
+
+
+
+
+
 
